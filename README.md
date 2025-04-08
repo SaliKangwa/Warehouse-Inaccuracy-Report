@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-This project involves developing a Power BI dashboard to analyze and visualize data on supply inaccuracies, including their root causes and associated costs. The dashboard provides an interactive platform for tracking supplier and freight forwarder performance, enabling the team to assess reliability and make data-driven procurement decisions. By consolidating key metrics, the system supports better supplier selection and improved inventory accuracy.
+The project involves the development of a Power BI dashboard to analyze and visualize data on supply inaccuracies, including root causes and associated costs. The dashboard offers an interactive platform for monitoring supplier and freight forwarder performance, enabling the team to evaluate reliability and make data-driven procurement decisions. By consolidating key metrics, the system supports more informed supplier selection and enhances inventory accuracy.
 <br />
 
 
